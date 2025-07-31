@@ -58,9 +58,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Delandio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;
-  <a href="https://git.io/streak-stats">
-    <img title="GitHub Streak" height="180em" src="https://streak-stats.demolab.com/?user=Delandio&theme=merko&background=000&border=30A3DC&dates=FFF" />
-  </a>
 </p>
 
 ---
